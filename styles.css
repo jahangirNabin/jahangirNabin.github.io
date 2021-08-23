@@ -245,7 +245,8 @@ nav ul li a{
     box-shadow: 1px 1px 7px #888888;
     list-style-position: outside;
     list-style-type: disc;
-    
+    padding-top:10px;
+    padding-bottom:10px;
 }
 .q{
     list-style-type: square;
