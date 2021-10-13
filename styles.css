@@ -43,6 +43,7 @@
     opacity: 0;
 }
 .desc{
+    border-radius:15px;
     display: inline-block;
     width: 85%;
     text-align: center;
@@ -59,12 +60,13 @@
 .personal-details{
     width: 85%;
     display: inline-block;
+    padding-top:10px;
     margin-top: 5%;
     margin-bottom: 2%;
     text-align: center; 
     background-color: white;
     box-shadow: 1px 1px 7px #888888;
-    border-radius: 2px;
+    border-radius: 15px;
     box-sizing: border-box;
     
 }
@@ -241,6 +243,7 @@ nav ul li a{
     text-align: center;
 } 
 .ulist{
+    border-radius:15px;
     background-color: white;
     box-shadow: 1px 1px 7px #888888;
     list-style-position: outside;
@@ -263,6 +266,7 @@ nav ul li a{
     margin-left: 3%;
 }
 .skill-section{
+    border-radius:15px;
     text-align: start;
     background-color: white;
     box-shadow: 1px 1px 7px #888888;
@@ -297,7 +301,7 @@ nav ul li a{
     width: 40%;
 }
 .two{
-    width: 30%;
+    width: 50%;
 }
 .three{
     width: 30%;
@@ -309,6 +313,7 @@ nav ul li a{
     margin-top: 4%;
 }
 .work{
+    border-radius:15px;
     display: inline-block;
     width: 85%;
     background-color: white;
@@ -340,6 +345,7 @@ nav ul li a{
     margin: 2%;
 }
 .qc{
+    border-radius:15px;
     padding-top: 0;
     border-top: 7px groove rgb(49, 173, 86);
     margin-bottom: 1%;
